@@ -7,7 +7,7 @@
     grid-template-columns: auto 1fr;
 }
 .logo{
-    max-width: 50%;
+    max-width: 25%;
     max-height: 50%;
 }
 .nav-links{
@@ -24,9 +24,9 @@
     font-size: 1.2rem;
     transition: all 0.3s linear;
     &:hover{
-        color: $mainGreen;
+        color: #9F2B21;
     }
 }
 .active{
-    color: $mainGreen;
+    color: #9F2B21;
 }

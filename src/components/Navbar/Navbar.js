@@ -4,7 +4,7 @@ import './Navbar.scss';
 export default function Navbar() {
   return (
     <nav className="navbar">
-    <img className="logo" src="http://www.mozambiquetours.co.za/wp-content/uploads/2018/01/master_0048-1.png"/>
+    <img className="logo" src="https://dreamcityresort.com/wp-content/uploads/2018/01/CITY-TOURS-Logo.png"/>
     <ul className="nav-links">
     <li>
       <a href="/" className="nav-link"> Home </a>
